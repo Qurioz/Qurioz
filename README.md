@@ -7,9 +7,11 @@ Qurioz is based on models of _proof of work_(pow) and _proof of model_(pom).
 Pow is used at most of block chain systems. like Bitcoin.And pom is new concept of proof model, that Miners act for finding good learning model at Deep Learning(DL).when miner find better deep learn model than that of ever, Miner will obtain reward for thier jobs.
 
 
-# Oz Price Unit　
+# Oz Price Unit
+```
 1Oz = 1000cenz =10^5Q=10^8hiroshi
-hiroshi is minimum unit in Qurioz network. All Oz amount are caluculated with hiroshi. 
+```
+hiroshi is minimum unit in Qurioz network. All Oz amounts and transactions are computed with hiroshi. 
 
 # How to upload your Problem into Qurioz network
 You need to create JSON-formatted proposal sheet.Here is good sample.
