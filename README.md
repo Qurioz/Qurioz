@@ -20,7 +20,7 @@ You need to create JSON-formatted proposal sheet.Here is good sample.
 "account":"<your_Qurioz_EOA_account>",
 "launch_gas":1000, 
 "learn_data":"http:xxx.com/xxx",
-"testdata:http:xxx.com/yyy"
+"testdata:XXXXXXXXXXXXXX(testDataID)"
 "recipi":"liner",
 }
 ```
